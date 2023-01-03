@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Bhart</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharbhart&label=Profile%20views&color=0e75b6&style=flat" alt="tusharbhart" /> </p>
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Data Structures and Algorithms**
